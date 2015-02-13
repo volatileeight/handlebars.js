@@ -1,4 +1,9 @@
 language: node_js
+<<<<<<< HEAD
+=======
+node_js:
+- '0.10'
+>>>>>>> FETCH_HEAD
 before_install:
 - npm install -g grunt-cli
 script:
